@@ -1,1 +1,1 @@
-module "github.com/sidalsoft/bankapp"
+module bank
