@@ -44,7 +44,6 @@ func ExampleTotal() {
 	//0
 	//0
 }
-
 func ExamplePaymentSources() {
 	cards := []types.Card{
 		{
