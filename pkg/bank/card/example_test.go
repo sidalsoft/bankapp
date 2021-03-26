@@ -1,8 +1,8 @@
 package card
 
 import (
-	"bank/pkg/bank/types"
 	"fmt"
+	"github.com/coursar/bank/pkg/bank/types"
 )
 
 func ExampleTotal() {

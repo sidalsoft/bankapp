@@ -1,7 +1,7 @@
 package card
 
 import (
-	"bank/pkg/bank/types"
+	"github.com/coursar/bank/pkg/bank/types"
 )
 
 func Total(cards []types.Card) types.Money {
