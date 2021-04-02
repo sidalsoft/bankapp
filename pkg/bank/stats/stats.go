@@ -1,6 +1,6 @@
 package stats
 
-import "github.com/coursar/bank/pkg/bank/types"
+import "github.com/sidalsoft/bankapp/pkg/bank/types"
 
 func Avg(payments []types.Payment) types.Money {
 	sum := types.Money(0)

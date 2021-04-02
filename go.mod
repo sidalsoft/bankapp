@@ -1,3 +1,3 @@
-module github.com/coursar/bank
+module github.com/sidalsoft/bankapp
 
 go 1.16
